@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+//10 minutes
 
 class Solution {
 public:
